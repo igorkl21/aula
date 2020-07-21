@@ -1,2 +1,4 @@
-# aula.git
+# aula_git
  primeiro repositório
+
+ :)
