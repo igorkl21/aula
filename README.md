@@ -1,6 +1,6 @@
 # aula_git
- primeiro repositório
+ **primeiro repositório
 
  :)
  
- ablublublé blublublé
+ *ablublublé blublublé
